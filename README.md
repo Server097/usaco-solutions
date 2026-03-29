@@ -10,10 +10,12 @@ Solutions to USACO (USA Computing Olympiad) contest problems.
 | Gold   | Next       |
 
 ## 🗂️ Structure
+```
 usaco-solutions/
 ├── template/     ← base template for every problem
 ├── bronze/       ← promoted ✅
 └── silver/       ← in progress 🔄
+```
 
 ## 💻 Language
 Java (with BufferedReader for fast I/O)
